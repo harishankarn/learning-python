@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -m "making changes"
+git push
